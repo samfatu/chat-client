@@ -1,0 +1,10 @@
+@import-normalize;
+
+html {
+  background-color: mediumslateblue;
+}
+
+.list-item:hover {
+  background: 'gray';
+  cursor: pointer;
+}
